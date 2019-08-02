@@ -1,0 +1,227 @@
+{
+  "0": {
+    "name": "Website",
+    "color": "red",
+    "map": [
+      {
+        "name": "Live",
+        "url": "http://www.buildinglink.com"
+      },
+      {
+        "name": "Public",
+        "url": "https://www.buildinglink.com/public/default.aspx"
+      },
+      {
+        "name": "Mail",
+        "url": "http://mail.buildinglink.com"
+      }
+    ]
+  },
+  "1": {
+    "name": "People",
+    "color": "red",
+    "map": [
+      {
+        "name": "CompanyWeb",
+        "url": "http://companyweb/default.aspx"
+      },
+      {
+        "name": "Directory by Department",
+        "url": "DirectorybyDepartment.pdf"
+      },
+      {
+        "name": "Leadership",
+        "url": "leadership.html"
+      },
+      {
+        "name": "BuildingLink BambooHR",
+        "offsite": true,
+        "url": "https://buildinglink.bamboohr.com/"
+      }
+    ]
+  },
+  "2": {
+    "name": "Developer",
+    "color": "blue",
+    "map": [
+      {
+        "links": [
+          {
+            "label": "Doc: ",
+            "name": "Dev",
+            "url": "http://bldevs.helpdocsonline.com/pmip36q63s6ifqpnhmwya10tocxcwo2m"
+          },
+          {
+            "label": "   ",
+            "name": "Ops",
+            "url": "http://10.1.1.71:8080/"
+          },
+          {
+            "label": "   ",
+            "name": "Api",
+            "url": "https://developer.buildinglink.com/"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "label": "Sentry: ",
+            "name": "Web",
+            "url": "https://sentryweb.buildinglink.com/auth/login/buildinglink-web/"
+          },
+          {
+            "label": "   ",
+            "name": "Apps",
+            "url": "https://sentryapps.buildinglink.com/buildinglink-apps/"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "label": "Rancher: ",
+            "name": "Blklic53",
+            "url": "https://rancher.buildinglink.com:8443"
+          },
+          {
+            "label": "   ",
+            "name": "Blklic71",
+            "url": "http://10.1.1.71"
+          }
+        ]
+      },
+      {
+        "name": "RabbitMQ Messaging",
+        "url": "http://10.1.20.170:15672/"
+      },
+      {
+        "name": "Sharepoint",
+        "url": "https://buildinglink.sharepoint.com/_layouts/15/sharepoint.aspx"
+      },
+      {
+        "name": "BuildingLink Slack",
+        "offsite": true,
+        "url": "https://buildinglink.slack.com/messages/general/"
+      },
+      {
+        "name": "Learning (udemy)",
+        "offsite": true,
+        "url": "https://buildinglink.udemy.com/"
+      }
+    ]
+  },
+  "3": {
+    "name": "Tools",
+    "color": "blue",
+    "map": [
+      {
+        "name": "Safari Books",
+        "offsite": true,
+        "url": "https://www.safaribooksonline.com"
+      },
+      {
+        "name": "Amazon Developer",
+        "offsite": true,
+        "url": "http://developer.amazon.com/"
+      },
+      {
+        "name": "JSON Web Tokens",
+        "offsite": true,
+        "url": "https://jwt.io/"
+      },
+      {
+        "name": "ScreenCloud",
+        "offsite": true,
+        "url": "https://signage.screen.cloud/screens"
+      },
+      {
+        "name": "Jira",
+        "offsite": true,
+        "url": "https://buildinglink.atlassian.net/"
+      },
+      {
+        "name": "Wufoo WebForms",
+        "offsite": true,
+        "url": "https://buildinglink.wufoo.com/admin/"
+      },
+      {
+        "name": "ScreenConnect",
+        "url": "http://connect.buildinglink.com"
+      }
+    ]
+  },
+  "4": {
+    "name": "Build",
+    "color": "green",
+    "map": [
+      {
+        "links": [
+          {
+            "label": "TFS: ",
+            "name": "Build and Release, ",
+            "url": "http://blknyc26.buildinglink.com:8080/tfs/BuildingLink/Default/_build"
+          },
+          {
+            "label": "   ",
+            "name": "Backlog, ",
+            "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/_backlogs?level=Epics&_a=backlog"
+          },
+          {
+            "label": "   ",
+            "name": "Code",
+            "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/_versionControl"
+          }
+        ]
+      },
+      {
+        "cfg": true,
+        "name": "live.blkqa.com",
+        "url": "-live.blkqa.com/v2/"
+      },
+      {
+        "cfg": true,
+        "name": "dev.blkqa.com",
+        "url": "-dev.blkqa.com/v2/"
+      }
+    ]
+  },
+  "5": {
+    "name": "VB2Vue",
+    "color": "green",
+    "map": [
+      {
+        "links": [
+          {
+            "label": "Src: ",
+            "name": "Arch, ",
+            "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/_git/Vue-Architecture"
+          },
+          {
+            "label": "   ",
+            "name": "PoC, ",
+            "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/_git/Vue-PoC"
+          },
+          {
+            "label": "   ",
+            "name": "Api",
+            "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_versionControl?path=%24%2FDefault%2FWeb%2FVueApi"
+          }
+        ]
+      },
+      {
+        "name": "Team Site",
+        "url": "https://buildinglink.sharepoint.com/sites/VBNETConversion"
+      },
+      {
+        "name": "Backlog",
+        "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_backlogs?level=Epics&_a=backlog"
+      },
+      {
+        "name": "Azure Portal",
+        "offsite": true,
+        "url": "https://portal.azure.com/#@buildinglink.com/"
+      }
+    ]
+  }
+}
