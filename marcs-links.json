@@ -16,8 +16,23 @@
         "url": "http://mail.buildinglink.com"
       },
       {
-        "name": "Codemarc",
-        "url": "http://codemarc.net"
+        "links": [
+          {
+            "label": "",
+            "name": "Codemarc, ",
+            "url": "http://codemarc.net"
+          },
+          {
+            "label": "   ",
+            "name": "n2mfs, ",
+            "url": "https://github.com/codemarc/notes-to-my-future-self"
+          },
+          {
+            "label": "   ",
+            "name": "github",
+            "url": "https://github.com/codemarc"
+          }
+        ]
       }
     ]
   },
