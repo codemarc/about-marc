@@ -2,7 +2,7 @@
 
 (async () => {
 
-	let getAGr8NewDog = () => {
+	let getAGr8Dog = () => {
 		const codemarc = {
 			"name": "Marc J. Greenberg",
 			"email": "codemarc@gmail.com",
@@ -13,10 +13,6 @@
 			"language": "polyglot",
 			"devops": ["Minded", "CI", "CD"],
 			"container": "docker run -it -P  codemarc/focused:latest",
-			"UiUx": {
-				"visual": ["web", "typescript", "less", "bootstrap", "jquery"],
-				"voice": ["Alexa Skills", "Amazon Voice Services"]
-			},
 			"Hands": {
 				"On": "Often",
 				"In": "Always"
@@ -25,7 +21,7 @@
 		return codemarc;
 	};
 
-	let letsTalk = await getAGr8NewDog();
+	let letsTalk = await getAGr8Dog();
 	console.log(letsTalk);
 	console.log(require('os').EOL);
 	letsTalk.data.forEach( domain => console.log(`${domain}\tCall Marc at ${letsTalk.phone}`));
