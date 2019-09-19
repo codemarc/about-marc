@@ -136,11 +136,6 @@
         "url": "https://signage.screen.cloud/screens"
       },
       {
-        "name": "Jira",
-        "offsite": true,
-        "url": "https://buildinglink.atlassian.net/"
-      },
-      {
         "name": "Wufoo WebForms",
         "offsite": true,
         "url": "https://buildinglink.wufoo.com/admin/"
@@ -148,6 +143,20 @@
       {
         "name": "ScreenConnect",
         "url": "http://connect.buildinglink.com"
+      },
+      {
+        "links": [
+          {
+            "label": "Git: ",
+            "name": "hub",
+            "url": "https://github.com"
+          },
+          {
+            "label": "  -  ",
+            "name": "Pro Git (book)",
+            "url": "https://book.git-scm.com/book/en/v2"
+          }
+        ]
       }
     ]
   },
