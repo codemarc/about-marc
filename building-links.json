@@ -210,12 +210,21 @@
         ]
       },
       {
-        "name": "Team Site",
-        "url": "https://buildinglink.sharepoint.com/sites/VBNETConversion"
+        "links": [
+          {
+            "name": "Team Site",
+            "url": "https://buildinglink.sharepoint.com/sites/VBNETConversion"
+          },
+          {
+            "label": "   ",
+            "name": "Backlog",
+            "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_backlogs?level=Epics&_a=backlog"
+          }
+        ]
       },
       {
-        "name": "Backlog",
-        "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_backlogs?level=Epics&_a=backlog"
+        "name": "Pro Git Book",
+        "url": "progit.pdf"
       },
       {
         "name": "Azure Portal",
