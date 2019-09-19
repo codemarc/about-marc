@@ -19,18 +19,13 @@
         "links": [
           {
             "label": "",
-            "name": "cm, ",
+            "name": "codemarc",
             "url": "http://codemarc.net"
           },
           {
-            "label": "   ",
-            "name": "n2mfs, ",
+            "label": "  -  ",
+            "name": "n2mfs",
             "url": "https://github.com/codemarc/notes-to-my-future-self"
-          },
-          {
-            "label": "   ",
-            "name": "github",
-            "url": "https://github.com/codemarc"
           }
         ]
       }
@@ -53,7 +48,7 @@
         "url": "leadership.html"
       },
       {
-        "name": "BuildingLink BambooHR",
+        "name": "BambooHR",
         "offsite": true,
         "url": "https://buildinglink.bamboohr.com/"
       }
@@ -155,11 +150,6 @@
         "url": "https://signage.screen.cloud/screens"
       },
       {
-        "name": "Jira",
-        "offsite": true,
-        "url": "https://buildinglink.atlassian.net/"
-      },
-      {
         "name": "Wufoo WebForms",
         "offsite": true,
         "url": "https://buildinglink.wufoo.com/admin/"
@@ -167,6 +157,20 @@
       {
         "name": "ScreenConnect",
         "url": "http://connect.buildinglink.com"
+      },
+      {
+        "links": [
+          {
+            "label": "Git: ",
+            "name": "hub",
+            "url": "https://github.com"
+          },
+          {
+            "label": "  -  ",
+            "name": "Pro Git (book)",
+            "url": "https://book.git-scm.com/book/en/v2"
+          }
+        ]
       }
     ]
   },
