@@ -26,6 +26,20 @@
         "url": "http://companyweb/default.aspx"
       },
       {
+        "links": [
+          {
+            "label": "Directory: ",
+            "name": "Department",
+            "url": "https://sentryweb.buildinglink.com/auth/login/buildinglink-web/"
+          },
+          {
+            "label": "   ",
+            "name": "Apps",
+            "url": "https://sentryapps.buildinglink.com/buildinglink-apps/"
+          }
+        ]
+      },
+      {
         "name": "Directory by Department",
         "url": "DirectorybyDepartment.pdf"
       },
@@ -205,11 +219,6 @@
             "label": "Src: ",
             "name": "Arch, ",
             "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/_git/Vue-Architecture"
-          },
-          {
-            "label": "   ",
-            "name": "Doc, ",
-            "url": "https://blvuedevdoc.z13.web.core.windows.net/"
           },
           {
             "label": "   ",
