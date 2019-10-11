@@ -232,10 +232,14 @@
           },
           {
             "label": "   ",
-            "name": "Storybook",
+            "name": "Storybook,",
             "url": "https://blvuedevdoc.z13.web.core.windows.net/storybook/index.html"
           }
         ]
+      },
+      {
+        "name": "Data Admin",
+        "url": "https://blvuedevdma.z13.web.core.windows.net/"
       },
       {
         "links": [
