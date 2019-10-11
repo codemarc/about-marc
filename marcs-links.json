@@ -40,8 +40,18 @@
         "url": "http://companyweb/default.aspx"
       },
       {
-        "name": "Directory by Department",
-        "url": "DirectorybyDepartment.pdf"
+        "links": [
+          {
+            "label": "Dir: ",
+            "name": "By Dept",
+            "url": "https://raw.githubusercontent.com/codemarc/about-marc/master/ByDepartment.png"
+          },
+          {
+            "label": ",  ",
+            "name": "By Employee",
+            "url": "https://raw.githubusercontent.com/codemarc/about-marc/master/ByEmployee.png"
+          }
+        ]
       },
       {
         "name": "Leadership",
@@ -222,23 +232,38 @@
           },
           {
             "label": "   ",
-            "name": "Doc, ",
-            "url": "https://blvuedevdoc.z13.web.core.windows.net/"
-          },
-          {
-            "label": "   ",
             "name": "Api",
             "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_versionControl?path=%24%2FDefault%2FWeb%2FVueApi"
           }
         ]
       },
       {
-        "name": "Team Site",
-        "url": "https://buildinglink.sharepoint.com/sites/VBNETConversion"
+        "links": [
+          {
+            "label": "Dev: ",
+            "name": "Docs, ",
+            "url": "https://blvuedevdoc.z13.web.core.windows.net/"
+          },
+          {
+            "label": "   ",
+            "name": "Storybook",
+            "url": "https://blvuedevdoc.z13.web.core.windows.net/storybook"
+          }
+        ]
       },
       {
-        "name": "Backlog",
-        "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_backlogs?level=Epics&_a=backlog"
+        "links": [
+          {
+            "label": "",
+            "name": "Team Site",
+            "url": "https://buildinglink.sharepoint.com/sites/VBNETConversion"
+          },
+          {
+            "label": "   -   ",
+            "name": "Backlog",
+            "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_backlogs?level=Epics&_a=backlog"
+          }
+        ]
       },
       {
         "name": "Azure Portal",

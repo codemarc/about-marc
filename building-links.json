@@ -28,20 +28,16 @@
       {
         "links": [
           {
-            "label": "Directory: ",
-            "name": "Department",
-            "url": "https://sentryweb.buildinglink.com/auth/login/buildinglink-web/"
+            "label": "Dir: ",
+            "name": "By Dept",
+            "url": "https://raw.githubusercontent.com/codemarc/about-marc/master/ByDepartment.png"
           },
           {
-            "label": "   ",
-            "name": "Apps",
-            "url": "https://sentryapps.buildinglink.com/buildinglink-apps/"
+            "label": ",  ",
+            "name": "By Employee",
+            "url": "https://raw.githubusercontent.com/codemarc/about-marc/master/ByEmployee.png"
           }
         ]
-      },
-      {
-        "name": "Directory by Department",
-        "url": "DirectorybyDepartment.pdf"
       },
       {
         "name": "Leadership",
@@ -228,12 +224,32 @@
         ]
       },
       {
-        "name": "Team Site",
-        "url": "https://buildinglink.sharepoint.com/sites/VBNETConversion"
+        "links": [
+          {
+            "label": "Dev: ",
+            "name": "Docs, ",
+            "url": "https://blvuedevdoc.z13.web.core.windows.net/"
+          },
+          {
+            "label": "   ",
+            "name": "Storybook",
+            "url": "https://blvuedevdoc.z13.web.core.windows.net/storybook"
+          }
+        ]
       },
       {
-        "name": "Backlog",
-        "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_backlogs?level=Epics&_a=backlog"
+        "links": [
+          {
+            "label": "",
+            "name": "Team Site",
+            "url": "https://buildinglink.sharepoint.com/sites/VBNETConversion"
+          },
+          {
+            "label": "   -   ",
+            "name": "Backlog",
+            "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_backlogs?level=Epics&_a=backlog"
+          }
+        ]
       },
       {
         "name": "Azure Portal",
