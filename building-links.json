@@ -178,7 +178,7 @@
         "links": [
           {
             "label": "TFS: ",
-            "name": "Build and Release, ",
+            "name": "Build, ",
             "url": "http://blknyc26.buildinglink.com:8080/tfs/BuildingLink/Default/_build"
           },
           {
@@ -202,6 +202,11 @@
         "cfg": true,
         "name": "dev.blkqa.com",
         "url": "-dev.blkqa.com/v2/"
+      },
+      {
+        "name": "Azure Portal",
+        "offsite": true,
+        "url": "https://portal.azure.com/#@buildinglink.com/"
       }
     ]
   },
@@ -280,11 +285,6 @@
             "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_wiki/wikis/Default.wiki?wikiVersion=GBwikiMaster&pagePath=%2FBuildingLink%20Docs"
           }
         ]
-      },
-      {
-        "name": "Azure Portal",
-        "offsite": true,
-        "url": "https://portal.azure.com/#@buildinglink.com/"
       }
     ]
   }
