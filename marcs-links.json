@@ -223,18 +223,9 @@
         "url": "-dev.blkqa.com/v2/"
       },
       {
-        "links": [
-          {
-            "label": "marcg: ",
-            "name": "Docs, ",
-            "url": "https://blvuemarcg.z13.web.core.windows.net/"
-          },
-          {
-            "label": "   ",
-            "name": "Storybook",
-            "url": "https://blvuemarcg.z13.web.core.windows.net/storybook/index.html"
-          }
-        ]
+        "name": "Azure Portal",
+        "offsite": true,
+        "url": "https://portal.azure.com/#@buildinglink.com/"
       }
     ]
   },
@@ -313,11 +304,6 @@
             "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_wiki/wikis/Default.wiki?wikiVersion=GBwikiMaster&pagePath=%2FBuildingLink%20Docs"
           }
         ]
-      },
-      {
-        "name": "Azure Portal",
-        "offsite": true,
-        "url": "https://portal.azure.com/#@buildinglink.com/"
       }
     ]
   }
