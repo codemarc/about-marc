@@ -223,12 +223,12 @@
           },
           {
             "label": "   ",
-            "name": "Api",
+            "name": "Api, ",
             "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_versionControl?path=%24%2FDefault%2FWeb%2FVueApi"
           },
           {
             "label": "   ",
-            "name": "PR ",
+            "name": "PR",
             "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_git/Vue-Architecture/pullrequests"
           }
         ]
