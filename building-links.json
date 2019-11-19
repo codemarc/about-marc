@@ -179,7 +179,7 @@
           {
             "label": "TFS: ",
             "name": "Build, ",
-            "url": "http://blknyc26.buildinglink.com:8080/tfs/BuildingLink/Default/_build"
+            "url": "http://tfs.buildinglink.com/tfs/BuildingLink/Default/_build"
           },
           {
             "label": "   ",
