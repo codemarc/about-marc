@@ -28,7 +28,7 @@
       {
         "links": [
           {
-            "label": "Dir: ",
+            "label": "  ",
             "name": "By Dept",
             "url": "https://raw.githubusercontent.com/codemarc/about-marc/master/ByDepartment.png"
           },
@@ -115,9 +115,9 @@
         "url": "https://buildinglink.slack.com/messages/general/"
       },
       {
-        "name": "Learning (udemy)",
+        "name": "Azure Portal",
         "offsite": true,
-        "url": "https://buildinglink.udemy.com/"
+        "url": "https://portal.azure.com/#@buildinglink.com/"
       }
     ]
   },
@@ -126,9 +126,9 @@
     "color": "blue",
     "map": [
       {
-        "name": "Safari Books",
+        "name": "Learning (udemy)",
         "offsite": true,
-        "url": "https://www.safaribooksonline.com"
+        "url": "https://buildinglink.udemy.com/"
       },
       {
         "name": "Amazon Developer",
@@ -175,38 +175,60 @@
     "color": "green",
     "map": [
       {
+        "name": "Pull Requests",
+        "url": "https://tfs.buildinglink.com/BuildingLink/Default/Vue/_git/Vue-Architecture/pullrequests"
+      },
+      {
         "links": [
           {
-            "label": "TFS: ",
+            "label": "def: ",
             "name": "Build, ",
-            "url": "http://tfs.buildinglink.com/tfs/BuildingLink/Default/_build"
+            "url": "http://tfs.buildinglink.com/BuildingLink/Default/_build"
           },
           {
             "label": "   ",
             "name": "Backlog, ",
-            "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/_backlogs?level=Epics&_a=backlog"
+            "url": "https://tfs.buildinglink.com/BuildingLink/Default/_backlogs?level=Epics&_a=backlog"
           },
           {
             "label": "   ",
             "name": "Code",
-            "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/_versionControl"
+            "url": "https://tfs.buildinglink.com/BuildingLink/Default/_versionControl"
           }
         ]
       },
       {
-        "cfg": true,
-        "name": "live.blkqa.com",
-        "url": "-live.blkqa.com/v2/"
+        "links": [
+          {
+          "label": "blkqa: ",
+          "name": "live",
+          "url": "-live.blkqa.com/v2/"
+          },
+          {
+            "label":"   ",
+            "name":"dev",
+            "url": "-dev.blkqa.com/v2/"
+          },
+          {
+            "label":"   ",
+            "name": "shared",
+            "url": "https://webappssharedauthentication-dev.blkqa.com/v2/"
+          }
+        ]
       },
       {
-        "cfg": true,
-        "name": "dev.blkqa.com",
-        "url": "-dev.blkqa.com/v2/"
-      },
-      {
-        "name": "Azure Portal",
-        "offsite": true,
-        "url": "https://portal.azure.com/#@buildinglink.com/"
+        "links": [
+          {
+            "label": "ms1: ",
+            "name": "storageacct",
+            "url": "https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Storage/storageAccounts/blvuedev/storageexplorer"
+          },
+          {
+            "label": "   ",
+            "name": "frontdoor",
+            "url": "https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Network/frontdoors/WASA/config"
+          }
+        ]
       }
     ]
   },
@@ -217,64 +239,6 @@
       {
         "links": [
           {
-            "label": "Src: ",
-            "name": "Arch, ",
-            "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/_git/Vue-Architecture"
-          },
-          {
-            "label": "   ",
-            "name": "Api, ",
-            "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_versionControl?path=%24%2FDefault%2FWeb%2FVueApi"
-          },
-          {
-            "label": "   ",
-            "name": "PR",
-            "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_git/Vue-Architecture/pullrequests"
-          }
-        ]
-      },
-      {
-        "links": [
-          {
-            "label": "D: ",
-            "name": "Site, ",
-            "url": "https://blvuedev.z13.web.core.windows.net/"
-          },
-          {
-            "label": "   ",
-            "name": "Storybook,",
-            "url": "https://blvuedev.z13.web.core.windows.net/storybook/index.html"
-          },
-          {
-            "label": "   ",
-            "name": "Data Admin",
-            "url": "https://blvuedevdma.z13.web.core.windows.net/"
-          }
-
-        ]
-      },
-      {
-        "links": [
-          {
-            "label": "M: ",
-            "name": "Site, ",
-            "url": "https://blvuemaster.z13.web.core.windows.net/"
-          },
-          {
-            "label": "   ",
-            "name": "Storybook,",
-            "url": "https://blvuemaster.z13.web.core.windows.net/storybook/index.html"
-          },
-          {
-            "label": "   ",
-            "name": "Data Admin",
-            "url": "https://blvuemasterdma.z13.web.core.windows.net/"
-          }
-        ]
-      },
-      {
-        "links": [
-          {
             "label": "",
             "name": "Team Site",
             "url": "https://buildinglink.sharepoint.com/sites/VBNETConversion"
@@ -282,12 +246,49 @@
           {
             "label": "   -   ",
             "name": "Backlog",
-            "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_backlogs?level=Epics&_a=backlog"
+            "url": "https://tfs.buildinglink.com/BuildingLink/Default/Vue/_backlogs?level=Epics&_a=backlog"
           },
           {
             "label": "   -   ",
             "name": "Wiki",
-            "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Vue/_wiki/wikis/Default.wiki?wikiVersion=GBwikiMaster&pagePath=%2FBuildingLink%20Docs"
+            "url": "https://tfs.buildinglink.com/BuildingLink/Default/Vue/_wiki/wikis/Default.wiki?wikiVersion=GBwikiMaster&pagePath=%2FBuildingLink%20Docs"
+          }
+        ]
+      },
+      {
+        "name": "Data Admin",
+        "url": "https://blvuedevdma.z13.web.core.windows.net/"
+      },
+      {
+        "links": [
+          {
+            "label": "Src: ",
+            "name": "Arch, ",
+            "url": "https://tfs.buildinglink.com/BuildingLink/Default/_git/Vue-Architecture"
+          },
+          {
+            "label": "   ",
+            "name": "Api, ",
+            "url": "https://tfs.buildinglink.com/BuildingLink/Default/Vue/_versionControl?path=%24%2FDefault%2FWeb%2FVueApi"
+          },
+          {
+            "label":"   ",
+            "name": "Admin",
+            "url": "https://tfs.buildinglink.com/BuildingLink/Default/_git/Data-Models-Admin"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "label": "ms1: ",
+            "name": "VBSite, ",
+            "url": "https://webappssharedauthentication-dev.blkqa.com/v2/"
+          },
+          {
+            "label": "   ",
+            "name": "VueSite ",
+            "url": "https://webappssharedauthentication-dev.blkqa.com/v2/mgmt/announcements/viewscrollingannouncements.aspx"
           }
         ]
       }
