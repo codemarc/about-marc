@@ -1,0 +1,254 @@
+[
+  {
+    "section": "Sites",
+    "links": [
+      {
+        "label": "Web",
+        "name": "Live",
+        "href": "http: //www.buildinglink.com",
+        "name2": "Public",
+        "href2": "http://www.buildinglink.com/public"
+      },
+      {
+        "name": "KeyLink",
+        "href": "http: //keylinkusa.com/Public/Keylink/"
+      },
+      {
+        "label": "Api",
+        "name": "Live",
+        "href": "https: //developer.buildinglink.com/",
+        "name2": "Dev",
+        "href2": "https://bl-api-mgmt-dev.portal.azure-api.net"
+      },
+      {
+        "label": "-",
+        "name": "ms1: Login",
+        "href": "https: //vuesharedauth-dev.blkqa.com/v2/global/login/login.aspx"
+      },
+      {
+        "name": "ms1: Announce",
+        "href": "https: //vuesharedauth-dev.blkqa.com/v2/mgmt/announcements/viewscrollingannouncements.aspx"
+      },
+      {
+        "name": "ms1: Auth",
+        "href": "https: //auth-vuesharedauth-dev.blkqa.com/"
+      },
+      {
+        "label": "-",
+        "name": "storage",
+        "href": "http: //bit.ly/34XUxzW",
+        "name2": "wasa",
+        "href2": "http://bit.ly/38aN8zy"
+      },
+      {
+        "label": "-",
+        "name": "Data Admin",
+        "href": "https: //blvuedevdma.z13.web.core.windows.net/"
+      }
+    ]
+  },
+  {
+    "section": "Communicate",
+    "links": [
+      {
+        "name": "Mail",
+        "href": "http: //mail.buildinglink.com"
+      },
+      {
+        "name": "Slack",
+        "href": "https: //buildinglink.slack.com/messages/general/"
+      },
+      {
+        "label": "-",
+        "name": "ScreenCloud",
+        "href": "https: //signage.screen.cloud/screens"
+      },
+      {
+        "name": "ScreenConnect",
+        "href": "http: //connect.buildinglink.com"
+      },
+      {
+        "name": "Wufoo",
+        "href": "https: //buildinglink.wufoo.com/admin/"
+      },
+      {
+        "name": "Sharepoint",
+        "href": "https: //buildinglink.sharepoint.com/_layouts/15/sharepoint.aspx"
+      },
+      {
+        "name": "Team Site",
+        "href": "http: //bit.ly/2OVexhh"
+      },
+      {
+        "name": "LogMeIn",
+        "href": "https: //www.logmein.com"
+      }
+    ]
+  },
+  {
+    "section": "Learn",
+    "links": [
+      {
+        "name": "Wiki",
+        "href": "http: //bit.ly/2YgGl2A"
+      },
+      {
+        "name": "old-doc",
+        "href": "http: //bldevs.helpdocsonline.com/pmip36q63s6ifqpnhmwya10tocxcwo2m"
+      },
+      {
+        "name": "Udemy",
+        "href": "https: //buildinglink.udemy.com/"
+      },
+      {
+        "label": "Git",
+        "name": "hub",
+        "href": "http: //github.com",
+        "name2": "ebook",
+        "href2": "https://book.git-scm.com/book/en/v2"
+      },
+      {
+        "name": "JSON Web Tokens",
+        "href": "https: //jwt.io/"
+      },
+      {
+        "label": "-",
+        "name": "aware solutions",
+        "href": "http: //awareio.buildinglink.com/"
+      },
+      {
+        "label": "reports",
+        "name": "blo",
+        "href": "https: //awarestorageaccount.z20.web.core.windows.net/powerbiembed?pid=146",
+        "name2": "sol",
+        "href2": "https: //awarestorageaccount.z20.web.core.windows.net/powerbiembed?pid=217"
+      }
+    ]
+  },
+  {
+    "section": "People",
+    "links": [
+      {
+        "label": "By",
+        "name": "Dept",
+        "href": "http: //bit.ly/2LskwYR",
+        "name2": "Employee",
+        "href2": "http://bit.ly/2OVRXos"
+      },
+      {
+        "name": "CompanyWeb",
+        "href": "http: //companyweb/default.aspx"
+      },
+      {
+        "name": "Leadership",
+        "href": "leadership.html"
+      },
+      {
+        "name": "BambooHR",
+        "href": "https: //buildinglink.bamboohr.com/"
+      },
+      {
+        "name": "TSI <3 Org",
+        "href": "https: //docs.google.com/spreadsheets/d/1u1lhbCvhwMfi7927tEIrUAuoyhlV-BO7CLKGRgBtXRo/edit?usp=sharing"
+      },
+      {
+        "name": "Training",
+        "href": "https: //docs.google.com/spreadsheets/d/1UEYK6I-WFMuBk9yQ3fNZh1MaT_CbBSH8YttWy3Y3JY4/edit?usp=sharing"
+      }
+    ]
+  },
+  {
+    "section": "TFS",
+    "links": [
+      {
+        "name": "Build ",
+        "href": "http: //tfs.buildinglink.com/BuildingLink/Default/_build"
+      },
+      {
+        "name": "Queries",
+        "href": "https: //tfs.buildinglink.com/BuildingLink/Default/_queries"
+      },
+      {
+        "name": "Backlogs",
+        "href": "https: //tfs.buildinglink.com/BuildingLink/Default/_backlogs"
+      },
+      {
+        "label": "-",
+        "name": "Pull Requests",
+        "href": "https: //tfs.buildinglink.com/BuildingLink/Default/_git/BL-Website/pullrequests?_a=mine"
+      }
+    ]
+  },
+  {
+    "section": "Source",
+    "links": [
+      {
+        "name": "VB-Website",
+        "href": "https: //tfs.buildinglink.com/BuildingLink/Default/_versionControl"
+      },
+      {
+        "name": "BL-Website",
+        "href": "https: //tfs.buildinglink.com/BuildingLink/Default/_git/BL-Website"
+      },
+      {
+        "name": "VA-Website",
+        "href": "https: //tfs.buildinglink.com/BuildingLink/Default/_git/Vue-Architecture"
+      },
+      {
+        "name": "Data Admin",
+        "href": "https: //tfs.buildinglink.com/BuildingLink/Default/_git/Data-Models-Admin"
+      }
+    ]
+  },
+  {
+    "section": "Cloud",
+    "links": [
+      {
+        "label": "Amazon"
+      },
+      {
+        "label": " ",
+        "name": "Console",
+        "href": "http: //console.aws.amazon.com/",
+        "name2": "Developer",
+        "href2": "http://developer.amazon.com/"
+      },
+      {
+        "label": "-",
+        "name": "Azure Portal",
+        "href": "https: //portal.azure.com/#@buildinglink.com/"
+      }
+    ]
+  },
+  {
+    "section": "Ops",
+    "links": [
+      {
+        "label": "Sentry",
+        "name": "Web",
+        "href": "https: //sentryweb.buildinglink.com/auth/login/buildinglink-web/",
+        "name2": "Apps",
+        "href2": "https: //sentryapps.buildinglink.com/buildinglink-apps/"
+      },
+      {
+        "label": "Prtg",
+        "name": "SQL",
+        "href": "https: //prtg-att.buildinglink.com/public/mapshow.htm?id=3124&mapid=6EBA86D5-7629-444A-800D-BA0C82702103",
+        "name2": "Mail",
+        "href2": "https: //prtg-att.buildinglink.com/public/mapshow.htm?id=3070&mapid=07694E66-B48E-4D4A-9296-C58681BA7E17",
+      },
+      {
+        "label": "-",
+        "name": "RabbitMQ",
+        "href": "http: //amqp.buildinglink.local:15672"
+      },
+      {
+        "label": "Rancher",
+        "name": "71",
+        "href": "http: //10.1.1.71",
+        "name2": "53",
+        "href2": "https://rancher.buildinglink.com:8443"
+      }
+    ]
+  }
+]
