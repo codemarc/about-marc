@@ -56,7 +56,8 @@
       { "name": "dev:login", "href": "-dev.blkqa.com/v2/global/login/login.aspx" },
       { "name": "dev:default", "href": "-dev.blkqa.com/v2/mgmt/default.aspx" },
       { "name": "dev:announce", "href": "-dev.blkqa.com/v2/mgmt/announcements/viewscrollingannouncements.aspx" },
-      { "label": "-", "name": "Data Admin", "href": "https://blvuedevdma.z13.web.core.windows.net/" }
+      { "label": "-", "name": "Data Admin", "href": "https://blvuedevdma.z13.web.core.windows.net/" },
+      { "name": "StyleGuide", "href": "https://blk1vstyleguide.z13.core.windows.net/' }
     ]
   },
   {
@@ -96,7 +97,7 @@
       { "name": "live:login", "href": "-live.blkqa.com/v2/global/login/login.aspx" },
       { "name": "live:default", "href": "-live.blkqa.com/v2/mgmt/default.aspx" },
       { "name": "live:announce", "href": "-live.blkqa.com/v2/mgmt/announcements/viewscrollingannouncements.aspx" },
-      { "label": "-", "name": "Data Admin", "href": "https://blvuelive.z13.web.core.windows.net/" }
+      { "label": "-", "name": "Data Admin", "href": "https://blvuemasterlive.z13.web.core.windows.net/" }
     ]
   },
   {
