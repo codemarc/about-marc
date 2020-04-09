@@ -125,15 +125,14 @@
       { "name": "Front Doors", "href": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2Ffrontdoors" },
       {
         "label": "-",
-        "name": "wasa",
-        "href": "http://bit.ly/38aN8zy",
+        "name": "vprelive",
+        "href": "https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Storage/storageAccounts/blk1vprelive",
         "label2": "🏠",
-        "name2": "dev",
-        "href2": "http://bit.ly/38aN8zy",
+        "name2": "vmain",
+        "href2": "",
         "label3": "🏠",
-        "name3": "live",
-        "href3":
-          "https://portal.azure.com/#@buildinglink.onmicrosoft.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Network/frontdoors/Main-Dev"
+        "name3": "vdev",
+        "href3": ""
       },
       {
         "name": "guide",
