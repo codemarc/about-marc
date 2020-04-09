@@ -136,7 +136,7 @@
         "href3": "https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Storage/storageAccounts/blk1vdev/overview"
       },
       {
-        "label": "-",
+        "label": " ",
         "name": "proda",
         "href": "https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Storage/storageAccounts/blk1vproda",
         "label2": "⬩",
