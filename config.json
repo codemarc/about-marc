@@ -17,7 +17,8 @@
       { "name": "Slack", "href": "https://buildinglink.slack.com/messages/general/" },
       { "name": "LogMeIn", "href": "https://www.logmein.com" },
       { "label": "-", "name": "ScreenCloud", "href": "https://signage.screen.cloud/screens" },
-      { "name": "ScreenConnect", "href": "http://connect.buildinglink.com" }
+      { "name": "ScreenConnect", "href": "http://connect.buildinglink.com" },
+      { "name": "Zoom", "href": "https://zoom.us/signin"}
     ]
   },
   {
@@ -122,7 +123,7 @@
     "links": [
       { "label": " ", "name": "Portal", "href": "https://portal.azure.com/#@buildinglink.com/", "name2": "Dashboard", "href2": "https://portal.azure.com/#@buildinglink.com/dashboard/" },
       { "name": "Storage Accounts", "href": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Storage%2FStorageAccounts" },
-      { "name": "Containers Instances", "href": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.ContainerInstance%2FcontainerGroups" },
+      { "name": "Containers", "href": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.ContainerInstance%2FcontainerGroups" },
       {
         "label": "-",
         "name": "pre",
