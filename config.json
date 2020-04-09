@@ -122,10 +122,10 @@
     "links": [
       { "label": " ", "name": "Portal", "href": "https://portal.azure.com/#@buildinglink.com/", "name2": "Dashboard", "href2": "https://portal.azure.com/#@buildinglink.com/dashboard/" },
       { "name": "Storage Accounts", "href": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Storage%2FStorageAccounts" },
-      { "name": "Front Doors", "href": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2Ffrontdoors" },
+      { "name": "Containers Instances", "href": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.ContainerInstance%2FcontainerGroups" },
       {
         "label": "-",
-        "name": "prelive",
+        "name": "pre",
         "href": "https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Storage/storageAccounts/blk1vprelive",
         "label2": "📍",
         "name2": "main",
