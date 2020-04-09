@@ -87,7 +87,7 @@
       { "name": "Build ", "href": "http://tfs.buildinglink.com/BuildingLink/Default/_build" },
       { "name": "Queries", "href": "https://tfs.buildinglink.com/BuildingLink/Default/_queries" },
       { "name": "Backlogs", "href": "https://tfs.buildinglink.com/BuildingLink/Default/_backlogs" },
-      { "label": "" },
+      { "name": "Wiki", "href": "https://tfs.buildinglink.com/BuildingLink/Default/_wiki/wikis/BuildingLink%20Developer%20Wiki?wikiVersion=GBwikiMaster&pagePath=%2FBuildingLink%20Docs%2FTeams%2FWeb%20(Vue)&pageId=245"},
       { "label": "-", "name": "Pull Requests", "href": "https://tfs.buildinglink.com/BuildingLink/Default/_git/BL-Website/pullrequests?_a=mine" }
     ]
   },
@@ -127,19 +127,12 @@
         "label": "-",
         "name": "pre",
         "href": "https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Storage/storageAccounts/blk1vprelive",
-        "label2": "📍",
+        "label2": "⬩",
         "name2": "main",
         "href2": "https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Storage/storageAccounts/blk1vmain",
-        "label3": "📍",
+        "label3": "⬩",
         "name3": "dev",
         "href3": "https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Storage/storageAccounts/blk1vdev/overview"
-      },
-      {
-        "name": "guide",
-        "href": "https://blvuestyleguide.z13.web.core.windows.net/",
-        "label2": "💠",
-        "name2": "doc",
-        "href2": "https://tfs.buildinglink.com/BuildingLink/Default/_wiki/wikis/BuildingLink%20Developer%20Wiki?wikiVersion=GBwikiMaster&pagePath=%2FBuildingLink%20Docs%2FTeams%2FWeb%20(Vue)&pageId=245"
       }
     ]
   },
