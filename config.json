@@ -137,10 +137,10 @@
       },
       {
         "label": " ",
-        "name": "proda",
+        "name": "prda",
         "href": "https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Storage/storageAccounts/blk1vproda",
         "label2": "⬩",
-        "name2": "prodb",
+        "name2": "prdb",
         "href2": "https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Storage/storageAccounts/blk1vprodb",
         "label3": "⬩",
         "name3": "bio",
