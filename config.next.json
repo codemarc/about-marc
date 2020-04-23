@@ -1,0 +1,239 @@
+[
+  {
+    section: 'Sites',
+    links: [
+      { name: 'Web Live', href: 'http://www.buildinglink.com' },
+      { name: 'Show Page Source', action: 'ShowPageSource' },
+      { name: 'Public', href: 'http://www.buildinglink.com/public', label2: '*', name2: 'KeyLink', href2: 'http://keylinkusa.com/Public/Keylink/' },
+      { label: '-' },
+      { label: 'Api', name: 'Live', href: 'https://developer.buildinglink.com/', name2: 'Dev', href2: 'https://bl-api-mgmt-dev.portal.azure-api.net' },
+      { label: '-' },
+      { name: 'Auth', href: 'https://auth.buildinglink.com', name2: 'qalive', href2: 'http://auth-main-live.blkqa.com/', name3: 'qadev', href3: 'http://auth-main-dev.blkqa.com/' },
+    ],
+  },
+  {
+    section: 'Communicate',
+    links: [
+      {
+        label: ' ',
+        name: 'Mail',
+        href: 'http://mail.buildinglink.com',
+        label2: '   ⬩',
+        name2: 'Sharepoint',
+        href2: 'https://buildinglink.sharepoint.com/_layouts/15/sharepoint.aspx',
+      },
+      {
+        name: 'Slack',
+        href: 'https://buildinglink.slack.com/messages/general/',
+        label2: '⬩',
+        name2: 'Zoom',
+        href2: 'https://zoom.us/signin',
+      },
+      {
+        name: 'ScreenConnect',
+        href: 'http://connect.buildinglink.com',
+      },
+      {
+        name: 'LogMeIn',
+        href: 'https://www.logmein.com',
+      },
+      {
+        label: '-',
+        name: 'ScreenCloudSignage',
+        href: 'https://signage.screen.cloud/screens',
+      },
+      {
+        name: 'ett',
+        hint: 'make sure you are logged into the buildinglink building',
+        href: 'https://buildinglink.com/v2/mgmt/ett/addactivity.aspx?[[EID]]&date=',
+        label2: ' -⎈- ',
+        name2: 'grid',
+        hint2: 'make sure you are logged into the buildinglink building',
+        href2: 'https://buildinglink.com/V2/mgmt/ETT/InOutGrid.aspx',
+      },
+    ],
+  },
+  {
+    section: 'Learn',
+    links: [
+      { name: 'Wiki', href: 'http://bit.ly/2YgGl2A' },
+      { name: 'old-doc', href: 'http://bldevs.helpdocsonline.com/pmip36q63s6ifqpnhmwya10tocxcwo2m' },
+      { name: 'Udemy', href: 'https://buildinglink.udemy.com/' },
+      { label: '-' },
+      {
+        label: 'git',
+        name: 'ebook',
+        href: 'https://book.git-scm.com/book/en/v2',
+        label2: '📖',
+        name2: 'cheats',
+        href2: 'https://gist.github.com/codemarc/7e3c37a880e679f8fa310f67cdb29a85',
+      },
+      { label: '-', name: 'JSON Web Tokens', href: 'https://jwt.io/' },
+    ],
+  },
+  {
+    section: 'People',
+    links: [
+      { label: 'By', name: 'Dept', href: 'http://bit.ly/2LskwYR', name2: 'Employee', href2: 'http://bit.ly/2OVRXos' },
+      { name: 'CompanyWeb', href: 'http://companyweb/default.aspx' },
+      { name: 'Leadership', href: 'leadership.html' },
+      { name: 'BambooHR', href: 'https://buildinglink.bamboohr.com/' },
+      { name: 'Wufoo', href: 'https://buildinglink.wufoo.com/admin/' },
+      { name: 'TSI <3 Org', href: 'https://docs.google.com/spreadsheets/d/1u1lhbCvhwMfi7927tEIrUAuoyhlV-BO7CLKGRgBtXRo/edit?usp=sharing' },
+      { name: 'Training', href: 'https://docs.google.com/spreadsheets/d/1UEYK6I-WFMuBk9yQ3fNZh1MaT_CbBSH8YttWy3Y3JY4/edit?usp=sharing' },
+    ],
+  },
+  {
+    section: 'Vue',
+    links: [
+      { name: 'localhost', href: 'http://localhost:3000' },
+      { name: 'vprelive', href: 'https://vprelive.buildinglink.com' },
+      { name: 'vmain', href: 'https://vmain.buildinglink.com' },
+      { name: 'vdev', href: 'https://vdev.buildinglink.com' },
+      { label: '-', name: 'StyleGuide', href: 'https://blk1vstyleguide.z13.core.windows.net/' },
+    ],
+  },
+  {
+    section: 'Aware!',
+    links: [
+      { name: 'Solutions Portal', href: 'http://awareio.buildinglink.com/' },
+      { label: '-' },
+      { name: 'Buildinglink Office', href: 'https://awarestorageaccount.z20.web.core.windows.net/powerbiembed?pid=146' },
+      { name: 'The Solaire', href: 'https://awarestorageaccount.z20.web.core.windows.net/powerbiembed?pid=217' },
+      { label: '-', name: 'Power BI', href: 'https://app.powerbi.com/?noSignUpCheck=1', label2: '📊', name2: 'doc', href2: 'https://docs.microsoft.com/en-us/power-bi/' },
+    ],
+  },
+  {
+    section: 'Source',
+    links: [
+      { name: 'VB-Website', href: 'https://tfs.buildinglink.com/BuildingLink/Default/_versionControl' },
+      { name: 'BL-Website', hint: 'Vue Website', href: 'https://tfs.buildinglink.com/BuildingLink/Default/_git/BL-Website' },
+      { name: 'Provision', href: 'https://tfs.buildinglink.com/BuildingLink/Default/_git/Provision' },
+      { name: 'Data Admin', href: 'https://tfs.buildinglink.com/BuildingLink/Default/_git/Data-Models-Admin' },
+      { label: '-' },
+      { label: 'git', name: 'hub', href: 'https://github.com', name2: 'gist', href2: 'https://gist.github.com' },
+    ],
+  },
+  {
+    section: 'TFS',
+    links: [
+      { name: 'Build ', href: 'http://tfs.buildinglink.com/BuildingLink/Default/_build' },
+      { name: 'Queries', href: 'https://tfs.buildinglink.com/BuildingLink/Default/_queries' },
+      { name: 'Backlogs', href: 'https://tfs.buildinglink.com/BuildingLink/Default/_backlogs' },
+      { label: '' },
+      { label: '-', name: 'Pull Requests', href: 'https://tfs.buildinglink.com/BuildingLink/Default/_git/BL-Website/pullrequests?_a=mine' },
+    ],
+  },
+  {
+    section: 'V2 / blkqa',
+    links: [
+      { label: 'main,prelive or, fb' },
+      {
+        name: '☉-live.blkqa.com',
+        href: 'https://[[BRANCH]]-live.blkqa.com/v2',
+      },
+      {
+        name: '☉-dev.blkqa.com',
+        href: 'https://[[BRANCH]]-dev.blkqa.com/v2',
+      },
+      { label: '-', name: 'Data Admin', href: 'https://blvuedevdma.z13.web.core.windows.net/' },
+    ],
+  },
+  {
+    section: 'Amazon / AWS',
+    links: [
+      { name: 'AWS Console', href: 'http://console.aws.amazon.com/' },
+      { name: 'Devloper Services', href: 'http://developer.amazon.com/' },
+      { name: 'Alexa App ○', href: 'https://alexa.amazon.com/' },
+      { label: '-', name: 'Amazon/Prime', href: 'https://amazon.com' },
+      {
+        label: ' ',
+        name: 'Video',
+        href: 'https://www.amazon.com/Amazon-Video/b/?ie=UTF8&node=2858778011&ref_=nav_dvm_us_eg_cs_nav_rec_T1',
+        label2: '✫',
+        name2: 'Music',
+        href2: 'https://music.amazon.com/',
+      },
+    ],
+  },
+  {
+    section: 'Azure',
+    links: [
+      {
+        name: 'portal',
+        href: 'https://portal.azure.com/#@buildinglink.com/',
+        label2: '   ⬩ ',
+        name2: 'dash',
+        href2: 'https://portal.azure.com/#@buildinglink.com/dashboard/',
+      },
+      {
+        label: ' ',
+        name: 'storage',
+        href: 'https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.Storage%2FStorageAccounts',
+        label2: '⬩ ',
+        name2: 'aci',
+        href2: 'https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.ContainerInstance%2FcontainerGroups',
+      },
+      {
+        name: 'acr',
+        href: 'https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.ContainerRegistry%2Fregistries',
+        name2: 'bio',
+        href2:
+          'https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.ContainerRegistry/registries/bioservices',
+      },
+      { label: ' ' },
+      {
+        label: '-',
+        name: 'pre',
+        href:
+          'https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Storage/storageAccounts/blk1vprelive',
+        label2: '⬩',
+        name2: 'main',
+        href2:
+          'https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Storage/storageAccounts/blk1vmain',
+        label3: '⬩',
+        name3: 'dev',
+        href3:
+          'https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Storage/storageAccounts/blk1vdev/overview',
+      },
+      {
+        label: ' ',
+        name: 'prda',
+        href:
+          'https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Storage/storageAccounts/blk1vproda',
+        label2: '⬩',
+        name2: 'prdb',
+        href2:
+          'https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Storage/storageAccounts/blk1vprodb',
+        label3: '⬩',
+        name3: 'bio',
+        href3:
+          'https://portal.azure.com/#@buildinglink.com/resource/subscriptions/a613584d-2864-4a24-ae33-af51480bd96c/resourceGroups/bl-vue/providers/Microsoft.Storage/storageAccounts/blk1biodata',
+      },
+    ],
+  },
+  {
+    section: 'Ops',
+    links: [
+      {
+        label: 'Sentry',
+        name: 'Web',
+        href: 'https://sentryweb.buildinglink.com/auth/login/buildinglink-web/',
+        label2: '⦁',
+        name2: 'Apps',
+        href2: 'https://sentryapps.buildinglink.com/buildinglink-apps/',
+      },
+      {
+        label: 'Prtg',
+        name: 'SQL',
+        href: 'https://prtg-att.buildinglink.com/public/mapshow.htm?id=3124&mapid=6EBA86D5-7629-444A-800D-BA0C82702103',
+        label2: '📈',
+        name2: 'Mail',
+        href2: 'https://prtg-att.buildinglink.com/public/mapshow.htm?id=3070&mapid=07694E66-B48E-4D4A-9296-C58681BA7E17',
+      },
+      { label: '' },
+      { label: '-', name: 'RabbitMQ', href: 'http://amqp.buildinglink.local:15672' },
+      { label: 'Rancher', name: '71', href: 'http://10.1.1.71', name2: '53', href2: 'https://rancher.buildinglink.com:8443' },
+    ],
+  },
+]
